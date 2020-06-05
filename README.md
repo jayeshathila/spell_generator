@@ -101,3 +101,6 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the SpellGenerator project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/K-Sato1995/spell_generator/blob/master/CODE_OF_CONDUCT.md).
+
+## Stats
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.spell_generator)	![code-size](https://img.shields.io/github/languages/code-size/jayeshathila/spell_generator)
